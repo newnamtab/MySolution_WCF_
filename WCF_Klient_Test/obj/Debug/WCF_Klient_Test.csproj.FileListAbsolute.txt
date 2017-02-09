@@ -1,0 +1,6 @@
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\bin\Debug\WCF_Klient_Test.exe.config
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\bin\Debug\WCF_Klient_Test.exe
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\bin\Debug\WCF_Klient_Test.pdb
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\obj\Debug\WCF_Klient_Test.csprojResolveAssemblyReference.cache
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\obj\Debug\WCF_Klient_Test.exe
+C:\Users\Søren\documents\visual studio 2015\Projects\WCF_exam_Excercise_Solution\WCF_Klient_Test\obj\Debug\WCF_Klient_Test.pdb
